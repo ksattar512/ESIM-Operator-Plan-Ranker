@@ -9,6 +9,7 @@ Enterprise-grade Python worker for ranking eSIM operator/carrier packages by cou
 - Calculates cost-effective ranking using normalized package price values.
 - Supports direct database access and SSH-tunnel database access.
 - Writes ranked package results back to sorted package tables.
+- it also has process log and error log if you want to run in continous mode
 
 ## Core features
 
