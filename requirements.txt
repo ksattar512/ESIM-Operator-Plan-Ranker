@@ -1,0 +1,7 @@
+pandas==2.2.3
+PyMySQL==1.1.1
+paramiko==3.5.0
+sshtunnel==0.4.0
+python-dateutil==2.9.0.post0
+pytz==2024.2
+tzdata==2024.2
